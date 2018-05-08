@@ -1,7 +1,3 @@
-					
-					![I love Markdown](http://mikemclin.net/mmwp/wp-content/uploads/2013/03/markdown-syntax-language.png)
-
-
 
 
 Markdown est un système d’édition et de formatage de texte ; c’est à la fois une syntaxe, un script de conversion texte → HTML et un format de fichier. Il est couramment utilisé pour les fichiers de documentation d’un projet ou d’un jeu de données -souvent nommé readme.md. Il est stocké au format texte classique et est plus léger que sa version interprétée puisqu’il ne contient pas les balises html.
@@ -16,9 +12,9 @@ Comme le résultat sera exporté en HMTL, vous pouvez tout à fait introduire di
 
 # Headers
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+#  this is an h1
+## This is an h2 tag
+###### This is an h6 tag
 
 
 # Emphasis
